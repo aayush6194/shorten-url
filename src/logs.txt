@@ -1,0 +1,883 @@
+
+
+
+
+     Time    : Fri, 13 Sep 2019 04:29:28 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "25b0eb3c-22b3-4c29-b2f5-bf673eba6bd5",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:29:41 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "bd4c66c3-c702-4693-adf6-39acd53b5227",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:29:52 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "6cd91915-9339-47e6-bdf3-b37c7e5fbdd6",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:30:02 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "9557cad8-3a02-4513-9c40-b9e2b6b1085d",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:31:02 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "5a71437d-1806-459b-8f8f-298cf38d96cb",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:35:01 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ea619293-6550-489f-a3b4-3dcef916091f",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:35:20 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "75ad8cfd-bf95-459c-a78b-aa09d30b5270",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:35:36 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "0a40bd04-234d-4499-9591-b16462e5bfcc",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/shorten",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:41:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ae0e3a07-0393-463c-9db1-d0e3a06cbfe2",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "218",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"firstName": "Test",
+	"lastName": "Dummy",
+	"password": "test12",
+	"email": "test_teacher@mail.com",
+	"isStudent": false,
+	"className": "My Class 1",
+	"school": "my School",
+	"code": "sssss"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/shorten",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:42:06 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "7732323f-3d58-4e2b-b2bb-a2ce9b450031",
+	"accept-encoding": "gzip, deflate",
+	"referer": "http://localhost:8080/",
+	"host": "localhost:8080",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:54:26 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "20006b79-7d86-454b-b79d-4518bd0d6a44",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "43",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "https://moodle.ulm.edu/"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:54:37 GMT 
+
+     Route   : GET 
+
+     METHOD  : /cb6a88 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6InRlc3R4eF90ZWFjaGVyQG1haWwuY29tIiwiaWF0IjoxNTY3MzE1MTkwLCJleHAiOjE1NzA5MTE1OTB9.aFc8dycr-xNjCjXPTPc35hT_c1wdpDDNt_WR05Ag1ys",
+	"user-agent": "PostmanRuntime/7.16.3",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "5ab56f9f-6550-4eec-9284-dfc274f54027",
+	"host": "localhost:8080",
+	"accept-encoding": "gzip, deflate",
+	"content-length": "43",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "https://moodle.ulm.edu/"
+}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:54:52 GMT 
+
+     Route   : GET 
+
+     METHOD  : / 
+
+     Header  : {
+	"host": "localhost:8080",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36",
+	"sec-fetch-mode": "navigate",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+	"purpose": "prefetch",
+	"sec-fetch-site": "none",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9,la;q=0.8",
+	"cookie": "_ga=GA1.1.1105848187.1568171934",
+	"if-none-match": "W/\"204ec-gARErjS+3suKcrBpqS8jhkHobeA\""
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:54:53 GMT 
+
+     Route   : GET 
+
+     METHOD  : /cb6a88 
+
+     Header  : {
+	"host": "localhost:8080",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36",
+	"sec-fetch-mode": "navigate",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+	"sec-fetch-site": "none",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9,la;q=0.8",
+	"cookie": "_ga=GA1.1.1105848187.1568171934"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Fri, 13 Sep 2019 04:55:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : /cb6a88 
+
+     Header  : {
+	"host": "localhost:8080",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36",
+	"sec-fetch-mode": "navigate",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3",
+	"sec-fetch-site": "none",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9,la;q=0.8",
+	"cookie": "_ga=GA1.1.1105848187.1568171934"
+} 
+
+     Body    : {}
