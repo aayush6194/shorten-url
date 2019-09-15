@@ -53,8 +53,7 @@ const Wrapper = styled.div`
   background: ${props => props.color};
   @media(max-width: 879px){
   width: 100%;
-  padding-bottom: 5em;
-  padding-left: 1em;}
+  padding-bottom: 5em;}
 `;
 
 const Border = styled.div`
