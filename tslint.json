@@ -16,6 +16,7 @@
     "no-function-expression" : false,
     "function-name": false,
     "import-name": false,
+   
      "no-backbone-get-set-outside-model" : false,
     "typedef": [
       true,

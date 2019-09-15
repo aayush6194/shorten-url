@@ -14,20 +14,12 @@ let MyCard = styled(Card)`
 
 const Home = () => {
     let [url, setUrl] = useState("");
-    let [html, setHtml] = useState("");
+    let [shortUrl, setShortUrl] = useState(null);
     const [open, setOpen] = React.useState(false);
-    let shorten = (url: any) => {
+    let shorten = () => {
         api.shorten(url)
             .then((res: any) => {
-                if (res.success) alert(res.message)
-            })
-            .catch((err: any) => alert(err));
-    }
-
-    let proxy = (url: any) => {
-        api.proxy({ url })
-            .then((res: any) => {
-                setHtml(res);
+                if (res.success) setShortUrl(res.shortUrl);
             })
             .catch((err: any) => alert(err));
     }
@@ -38,10 +30,8 @@ const Home = () => {
                 input={<Input id="select-multiple" />}
                 open={open}
                 value={"https"}
-                onOpen={()=>setOpen(true)}
-                onClose={()=>setOpen(false)}
-            >
-               
+                onOpen={()=>{setOpen(true)}}
+                onClose={()=>setOpen(false)}>
                     <MenuItem   value={"request"} >
                        http
                     </MenuItem >
@@ -52,10 +42,10 @@ const Home = () => {
             </Select>
            
             <Input id="my-input" onChange={(e: any) => setUrl(e.target.value)} placeholder={"Ex: www.facebook.com"}/>
-            <Button variant="contained" color="primary" onClick={proxy}> Generate </Button>
+            <Button variant="contained" color="primary" onClick={shorten}> Generate </Button>
+            {shortUrl && <div><a target="_blank"  rel="noopener noreferrer" href={shortUrl}>{shortUrl}</a></div>}
 
         </MyCard>
-        {html}
     </Wrapper>);
 }
 

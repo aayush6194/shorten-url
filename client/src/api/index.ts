@@ -1,4 +1,4 @@
-import { get, authGet, post, authPost, authPut, customGet } from './method';
+import { get, authGet, post, authPost, put, customGet } from './method';
 import { API } from './routes';
 
 export default {
@@ -10,6 +10,6 @@ export default {
     return customGet("/", obj);
   },
   shorten : function(url : string) {
-    return post(API.shorten, { url });
+    return put(API.shorten, { url });
   }
 };

@@ -10,7 +10,6 @@ function authHeader() {
 }
 
 function customHeader(obj : any) {
-  let authtoken = getLocalStorage("token");
   return { ...{"Content-Type": "application/json"}, ...obj };
 }
 

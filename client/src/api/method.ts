@@ -20,6 +20,11 @@ function post(url: string, body: any) : Promise<any>{
       .then((response: any ) => response.json());
 }
 
+function put(url: string, body: any) : Promise<any>{
+  return fetch(url, { method: 'PUT', headers: header(), body: JSON.stringify(body) })
+    .then((response: any ) => response.json());
+}
+
 function authPost(url : string, body : any) : Promise<any> {
   return fetch(url, { method: 'POST', headers: authHeader(), body: JSON.stringify(body) })
   .then((response: any ) => response.json());
@@ -30,4 +35,4 @@ function authPut(url : string, body : any) : Promise<any> {
   .then((response: any ) => response.json());
 }
 
-export { get, authGet, post, authPost, authPut, customGet};
+export { get, authGet, post, put, authPost, authPut, customGet};
