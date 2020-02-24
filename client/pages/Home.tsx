@@ -4,7 +4,8 @@ import { Wrapper, Card } from '../src/style/styled';
 import styled from 'styled-components';
 import api from '../src/api'
 import Link from 'next/link';
-import { Select, MenuItem, FormControl, NativeSelect } from '@material-ui/core';
+import Hints from '../src/components/hints'
+import { Select, MenuItem } from '@material-ui/core';
 
 let Container = styled.div`
     background-image: url("/static/svg1.svg");
@@ -31,10 +32,12 @@ const Home = () => {
     const [url, setUrl] = useState("");
     const [shortUrl, setShortUrl] = useState(null);
     const [open, setOpen] = React.useState(false);
-    const [http, setHttp] = useState("");
+    const [http, setHttp] = useState("http");
 
     let shorten = () => {
-        api.shorten(url)
+        let tempUrl = url.toLowerCase().search('http://') === 0? url.substring(6) : url;
+            tempUrl = url.toLowerCase().search('https://') === 0? url.substring(7) : url;
+        api.shorten(`${http}://${tempUrl}`)
             .then((res: any) => {
                 if (res.success) setShortUrl(res.shortUrl);
                 else alert(res.message);
@@ -50,17 +53,18 @@ const Home = () => {
                 <Select style={{ minWidth: "10vh" }}
                     input={<Input id="select-multiple" />}
                     open={open}
+                    onChange={(e: any)=>{setHttp(e.target.value)}}
                     value={http}
                     onOpen={() => setOpen(true)}
                     onClose={() => setOpen(false)}>
-                    <MenuItem value={"request"} >http</MenuItem>
-                    <MenuItem value={"request2"} >https</MenuItem>
+                    <MenuItem value={"http"} >http</MenuItem>
+                    <MenuItem value={"https"} >https</MenuItem>
                 </Select>
                 <Input id="my-input" onChange={(e: any) => setUrl(e.target.value)} placeholder={"Ex: www.facebook.com"} />
                 <Button variant="contained" color="primary" onClick={shorten}> Generate </Button>
                 {shortUrl && <MyCard><a target="_blank" rel="noopener noreferrer" href={shortUrl}>{shortUrl}</a></MyCard>}
             </MyCard>
-
+            <Hints msg={['Hello', 'Welcome to Short-Url!', 'Try Shortening your link', 'Thank for using the App']} />
           </Container>
         </Wrapper>);
 }

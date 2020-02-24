@@ -4675,3 +4675,1943 @@
 } 
 
      Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:44:43 GMT 
+
+     Route   : PUT 
+
+     METHOD  : / 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkZGRkZGRmYWRmZGRmZmtrZGRkZDIiLCJpYXQiOjE1ODI0OTk1NzMsImV4cCI6MTU4NjA5NTk3M30.1u_Zf9vqPiZVX4p6P97-FVLtoqGb5jaAcCDr55kEjvU",
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "8ba8ae31-a8d8-429b-a6af-031c64d44c32",
+	"host": "localhost",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "37",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "https://team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:44:51 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkZGRkZGRmYWRmZGRmZmtrZGRkZDIiLCJpYXQiOjE1ODI0OTk1NzMsImV4cCI6MTU4NjA5NTk3M30.1u_Zf9vqPiZVX4p6P97-FVLtoqGb5jaAcCDr55kEjvU",
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "6ffdb0cd-ef0d-4b54-9ae7-82d144c4b3a2",
+	"host": "localhost",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "37",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "https://team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:45:01 GMT 
+
+     Route   : GET 
+
+     METHOD  : /817759 
+
+     Header  : {
+	"host": "localhost",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "none",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:49:02 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "www.team-plat.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:49:16 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "31",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "www.team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:49:20 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "31",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "www.team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:49:25 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:49:27 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:49:33 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:50:00 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "bceeb6b8-adaa-436d-be9d-254f93776c16",
+	"host": "localhost:8081",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "0",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:50:34 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "text/plain",
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "d133157a-f01e-4645-958f-b8b6f72ff213",
+	"host": "localhost:8081",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "28",
+	"connection": "keep-alive"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:50:37 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "1c6a2b5c-2d43-4d76-ace9-704a88c28af6",
+	"host": "localhost:8081",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "28",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:50:44 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "56dc48e7-7160-4f39-a376-d736ca6e0aea",
+	"host": "localhost:8081",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "36",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "https://team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:50:49 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:50:56 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:53:59 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:54:26 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:54:29 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "27",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:54:41 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "20",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://url"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:54:43 GMT 
+
+     Route   : GET 
+
+     METHOD  : /b16db4 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:57:25 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "20",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://url"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:57:27 GMT 
+
+     Route   : GET 
+
+     METHOD  : /716fb4 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:57:32 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "20",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://url"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:57:33 GMT 
+
+     Route   : GET 
+
+     METHOD  : /73ae3e 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:57:54 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "34",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:57:55 GMT 
+
+     Route   : GET 
+
+     METHOD  : /3545d9 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:58:01 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "34",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 03:58:02 GMT 
+
+     Route   : GET 
+
+     METHOD  : /7e4b6d 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:28:39 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "28",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://lllllllllll"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:28:40 GMT 
+
+     Route   : GET 
+
+     METHOD  : /7961ee 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:31:39 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "38",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://www.team-playtpus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:31:40 GMT 
+
+     Route   : GET 
+
+     METHOD  : /cc7988 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:31:56 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "38",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://www.team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:31:57 GMT 
+
+     Route   : GET 
+
+     METHOD  : /dfc92d 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:32:03 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "39",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "https://www.team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:32:04 GMT 
+
+     Route   : GET 
+
+     METHOD  : /699525 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:32:09 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "35",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "https://team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:32:10 GMT 
+
+     Route   : GET 
+
+     METHOD  : /e693b1 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:32:47 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "150",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "https://https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-32GB/dp/B07XL7G4H6/ref=pd_ybh_a_1?_encoding=UTF8&psc=1&refRID=1NJ95KP2P7ECMCBRBDTK"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:32:48 GMT 
+
+     Route   : GET 
+
+     METHOD  : /7dd0b3 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:32:59 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "142",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-32GB/dp/B07XL7G4H6/ref=pd_ybh_a_1?_encoding=UTF8&psc=1&refRID=1NJ95KP2P7ECMCBRBDTK"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:33:00 GMT 
+
+     Route   : GET 
+
+     METHOD  : /cb15e5 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:33:10 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "150",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "https://https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-32GB/dp/B07XL7G4H6/ref=pd_ybh_a_1?_encoding=UTF8&psc=1&refRID=1NJ95KP2P7ECMCBRBDTK"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:33:11 GMT 
+
+     Route   : GET 
+
+     METHOD  : /185a50 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:33:23 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "142",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "https://www.amazon.com/Apple-iPad-10-2-Inch-Wi-Fi-32GB/dp/B07XL7G4H6/ref=pd_ybh_a_1?_encoding=UTF8&psc=1&refRID=1NJ95KP2P7ECMCBRBDTK"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:33:24 GMT 
+
+     Route   : GET 
+
+     METHOD  : /2199af 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 04:33:33 GMT 
+
+     Route   : GET 
+
+     METHOD  : /2199af 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:12:47 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "58",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://https://kissmanga.com/Search/AuthorArtist"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:12:49 GMT 
+
+     Route   : GET 
+
+     METHOD  : /70ce13 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:13:07 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "50",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://kissmanga.com/Search/AuthorArtist"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:13:08 GMT 
+
+     Route   : GET 
+
+     METHOD  : /470ab7 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:13:58 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "ceab90b0-0783-4ba5-9ea1-11c211477c86",
+	"host": "localhost:8081",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "36",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "https://team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:14:08 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "39c5e91b-86da-4976-a8f9-a5b96bc1607a",
+	"host": "localhost:8081",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "36",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "https://team-platypus.com"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:14:22 GMT 
+
+     Route   : GET 
+
+     METHOD  : /aa01b7 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "none",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:14:27 GMT 
+
+     Route   : GET 
+
+     METHOD  : /aa01b7 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "none",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:14:46 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"content-type": "application/json",
+	"user-agent": "PostmanRuntime/7.22.0",
+	"accept": "*/*",
+	"cache-control": "no-cache",
+	"postman-token": "615cb746-0feb-4a19-aa6e-dc7c6a7e8c69",
+	"host": "localhost:8081",
+	"accept-encoding": "gzip, deflate, br",
+	"content-length": "59",
+	"connection": "keep-alive"
+} 
+
+     Body    : {
+	"url": "https://www.w3schools.com/jsref/jsref_search.asp"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:14:49 GMT 
+
+     Route   : GET 
+
+     METHOD  : /659ad3 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "none",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:14:57 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "65",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://https://www.w3schools.com/jsref/jsref_search.asp"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:14:58 GMT 
+
+     Route   : GET 
+
+     METHOD  : /34dd79 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:15:10 GMT 
+
+     Route   : GET 
+
+     METHOD  : /34dd79 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:15:20 GMT 
+
+     Route   : GET 
+
+     METHOD  : /34dd79 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "none",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:16:28 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "65",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://https://www.w3schools.com/jsref/jsref_search.asp"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:16:48 GMT 
+
+     Route   : GET 
+
+     METHOD  : /8b061e 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:18:45 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "39",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://https://kissmanga.com/"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:18:46 GMT 
+
+     Route   : GET 
+
+     METHOD  : /56b52c 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:18:50 GMT 
+
+     Route   : GET 
+
+     METHOD  : /56b52c 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:19:58 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "39",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://https://kissmanga.com/"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:20:00 GMT 
+
+     Route   : GET 
+
+     METHOD  : /65a50a 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:26:14 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "39",
+	"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Mobile Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://https://kissmanga.com/"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:26:15 GMT 
+
+     Route   : GET 
+
+     METHOD  : /3f04ca 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:26:27 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "32",
+	"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Mobile Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http:///kissmanga.com/"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:26:28 GMT 
+
+     Route   : GET 
+
+     METHOD  : /5d1abb 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:26:45 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "38",
+	"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Mobile Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http://http://kissmanga.com/"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:26:47 GMT 
+
+     Route   : GET 
+
+     METHOD  : /ceacd7 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:26:59 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "32",
+	"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Mobile Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http:///kissmanga.com/"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:27:00 GMT 
+
+     Route   : GET 
+
+     METHOD  : /99de95 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:27:13 GMT 
+
+     Route   : PUT 
+
+     METHOD  : /shorten 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"content-length": "58",
+	"user-agent": "Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Mobile Safari/537.36",
+	"content-type": "application/json",
+	"accept": "*/*",
+	"origin": "http://localhost:3000",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "cors",
+	"referer": "http://localhost:3000/",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {
+	"url": "http:///www.w3schools.com/jsref/jsref_search.asp"
+}
+
+
+
+     Time    : Mon, 24 Feb 2020 05:27:14 GMT 
+
+     Route   : GET 
+
+     METHOD  : /b1a810 
+
+     Header  : {
+	"host": "localhost:8081",
+	"connection": "keep-alive",
+	"upgrade-insecure-requests": "1",
+	"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36",
+	"sec-fetch-user": "?1",
+	"accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9",
+	"sec-fetch-site": "same-site",
+	"sec-fetch-mode": "navigate",
+	"accept-encoding": "gzip, deflate, br",
+	"accept-language": "en-US,en;q=0.9"
+} 
+
+     Body    : {}

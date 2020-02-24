@@ -18,6 +18,7 @@ class UrlController {
     try {
       const { host : myURL }= req.headers;
       let { url } = req.body;
+      console.log(url)
       let shortUrl =  Uid().substring(0, 6);
       if(!validUrl.isUri(url)) return next("Not a Valid URL");
       await new urlModel({ url, shortUrl })
