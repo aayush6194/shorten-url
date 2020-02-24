@@ -23,7 +23,7 @@ class UrlController {
       if(!validUrl.isUri(url)) return next("Not a Valid URL");
       await new urlModel({ url, shortUrl })
             .save();
-            shortUrl = 'http://' + myURL + '/' + shortUrl;
+            shortUrl = 'https://short-uris.com/api/' + shortUrl;
       res.status(200)
           .send({ success: true,  shortUrl})
     }
