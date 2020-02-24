@@ -1,4 +1,4 @@
-let URL  = "http://localhost:8081";
+let URL  = "https://www.short-uris.com/api";
 
 const API : any = {
   url: URL + "/url",
