@@ -1,4 +1,4 @@
-let URL  = "https://www.short-uris.com/api";
+let URL  = "https://www.short-uris.com/api/";
 
 const API : any = {
   url: URL + "/url",
