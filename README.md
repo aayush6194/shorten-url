@@ -1,8 +1,7 @@
-# TEAM PLATYPUS <br>
 
 ```
-git clone https://github.com/aayush6194/team-plat-backend.git
-cd team-plat-backend
+git clone https://github.com/aayush6194/shorten-url.git
+cd shorten-url
 npm i
 npm start
 ```
