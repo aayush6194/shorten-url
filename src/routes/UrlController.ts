@@ -40,9 +40,10 @@ class UrlController {
       if(!url) return next("Error");
       url = url.url;
       url = url.indexOf("http") === 0 ? url :  "http://" + url;
-
-      res.status(301)
-          .redirect(url); 
+        console.log(url);
+      // return res.status(301)
+      //     .redirect(url); 
+      res.status(200).send(`<script>window.location.href="${url}"</script>`);
     }
     catch (err){
       next(err);
