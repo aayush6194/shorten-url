@@ -23,7 +23,7 @@ class UrlController {
       if(!validUrl.isUri(url)) return next("Not a Valid URL");
       await new urlModel({ url, shortUrl })
             .save();
-            shortUrl = 'https://short-uris.com/api/' + shortUrl;
+            shortUrl = 'https://www.short-uris.com/api/' + shortUrl;
       res.status(200)
           .send({ success: true,  shortUrl})
     }
@@ -34,7 +34,7 @@ class UrlController {
   static async getUrl(req : Request, res : Response, next : NextFunction) : Promise<any>{
     try {
       let { url : shortUrl } = req;
-      shortUrl = shortUrl.substring(1);
+      shortUrl = shortUrl.substring(1,7);
       console.log(shortUrl) 
       let url = await urlModel.findOne({ shortUrl });
       if(!url) return next("Error");
@@ -42,7 +42,7 @@ class UrlController {
       url = url.indexOf("http") === 0 ? url :  "http://" + url;
 
       res.status(301)
-          .redirect(url);
+          .redirect(url); 
     }
     catch (err){
       next(err);
