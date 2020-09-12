@@ -16,7 +16,7 @@ app.use(logger);
 //Routes
 SetRoutes(app);
 
-app.listen(Port, "localhost");
+app.listen(Port);
 console.log(`Running on Port : ${Port}`);
 
 // ConnectDB(MongoURI).catch((err: Error) => {
